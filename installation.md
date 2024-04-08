@@ -6,3 +6,4 @@ has_children: true
 ---
 
 Die Einrichtung der JB Manager-Anwendung erfolgt über unser [Setup](https://www.jbmanager.de/setup).
+----
