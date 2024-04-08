@@ -1,6 +1,7 @@
 ---
 title: Start
 layout: home
+nav_order: 1
 ---
 
 In dieser Dokumentation erläutern wir die Funktionen unserer JB Manager-Anwendung. 
